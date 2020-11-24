@@ -4,6 +4,7 @@ Klona ner projektet. github desktop osv
 
 ## installation 
 
+- Ha node.js installerat
 installera alla paket med `npm i`
 
 ## Utveckling
